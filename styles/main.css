@@ -149,6 +149,10 @@ p {
   margin-bottom: 2rem;
 }
 
+#main-container .image-container{
+  display: flex;
+}
+
 img {
   height: 25rem;
   display: inline-block;
@@ -160,3 +164,4 @@ footer nav a {
   color: var(--accent-theme-color);
   border: none;
 }
+
