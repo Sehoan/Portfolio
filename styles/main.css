@@ -62,14 +62,20 @@ nav {
 
 footer {
   display: grid;
-  grid-template-columns: 1fr 3fr;
-  bottom: 0;
+  grid-template-columns: max-content auto;
   border-top: solid 2px grey;
-  padding: 5px;
+  padding-top: 5px;
   margin-top: 4rem;
 }
+
 small {
   margin-right: 2rem;
+  color: grey;
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
 
 /*Section*/
@@ -84,6 +90,7 @@ small {
   grid-template-columns: 1fr 1fr;
   column-gap: 4rem;
   align-items: center;
+  justify-items: center;
   color: grey;
   margin-top: 2rem;
 }
@@ -91,6 +98,7 @@ small {
   direction: rtl;
 }
 img {
+  height: 25rem;
   display: inline-block;
   border-radius: 15px;
 }
