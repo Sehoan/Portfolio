@@ -165,3 +165,16 @@ footer nav a {
   border: none;
 }
 
+.skills-container {
+  margin-top: 1rem;
+}
+.skills-container h4 {
+  color: var(--accent-theme-color);
+  font-weight: bold;
+}
+.skills-container div {
+  margin-top: 0.5rem;
+  border-radius: 10px;
+  border: solid grey;
+  padding: 1rem 2rem;
+}
