@@ -55,7 +55,8 @@ table {
 }
 
 /*General*/
-body { 
+body {
+  padding: 2rem 6rem;
   font-family: 'Nunito', sans-serif;
 }
 
@@ -78,9 +79,6 @@ h4 a {
   font-size: 1.2rem;
   font-weight: bold;
   color: var(--text-theme-color);
-}
-body {
-  padding: 2rem 6rem;
 }
 header {
   display: grid;
