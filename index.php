@@ -18,7 +18,7 @@
     <header class="row">
       <div class="col-12">
         <div class="col-7">
-          <h1><a href="index.html">Sehoan Choi | Portfolio</a></h1>
+          <h1><a href="index.php">Sehoan Choi | Portfolio</a></h1>
           <h3>Full Stack Engineer | Cloud Engineer</h3>
         </div>
         <nav class="col-5">
@@ -41,7 +41,7 @@
       </section>
       <section class="col-12">
         <div class="col-5">
-          <img src="assets/rotunda.gif" alt="place holder"/>
+          <img src="assets/school.jpg" alt="place holder"/>
         </div>
         <div class="col-7">
           <h4><a href="">Education 🎓</a></h4>
