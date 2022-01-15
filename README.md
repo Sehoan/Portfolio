@@ -1,5 +1,5 @@
 # Welcome to Sehoan's Portfolio Website
-This site was created as a course project in Fall 2021 [here](https://cs4640.cs.virginia.edu/sc8zt/hw1/)
+This site was created as a course project in Fall 2021 [here](https://sehoanchoi.herokuapp.com)
 
 ## Screenshot
 ![Home](/home.png)
